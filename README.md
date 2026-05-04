@@ -1,4 +1,5 @@
 📌 Overview
+
 This project tests the accuracy of the Sinhala chat transliteration system: https://www.pixelssuite.com/chat-translator
 
 The focus is on identifying cases where the system fails to correctly convert Singlish to Sinhala and automating the testing using Playwright.
